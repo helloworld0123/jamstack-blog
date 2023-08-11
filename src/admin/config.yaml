@@ -1,9 +1,6 @@
 backend:
   name: git-gateway
   branch: main
-# This line should *not* be indented
-publish_mode: editorial_workflow
-# This line should *not* be indented
 media_folder: "public/assets/blog"
 public_folder: "/assets/blog"
 collections:
